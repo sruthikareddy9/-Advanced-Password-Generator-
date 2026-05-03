@@ -1,0 +1,1 @@
+Advanced Password Generator is a Python project that creates secure, customizable passwords using randomization. Users can choose length and character types (letters, numbers, symbols). It ensures strong password generation and includes a strength checker, demonstrating core Python concepts and security basics.
